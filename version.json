@@ -1,6 +1,6 @@
 {
-    "version":  "7.0",
+    "version":  "7.0.1",
     "exeUrl":  "https://raw.githubusercontent.com/promasgg/Promas_update/main/PROMAS_GG_Optimizer.exe",
-    "sha256":  "A6F6F4E42656D108CB48D4062C724BF968958E993C3D37C46340529BC3ABA846",
-    "sig":  "fIwALwozryfrP8X+Igpw88BZWBdHdRIEif5OO2HD1+pHT8NMmuQuoHk816l+9mx/BpTeSZDMSW5OhCBf+yciup/udn7c3YAt/XTAn5tUlQzw+Yo49YzMY11bHYa8Xg8zyb6Gc8fnhNtpZZtSAeatv7J9qpm+oQqpobQieQC3LfqZuBuF1qLuPHNrp45Jup4qrdClJFrvnviGc95XmtDlBtbSpO0P4vtbI6bWuQfdWoAdjJ21XvepRDozT/yAJA1oPrm6StU3A8xFt5TYPKnMcItRxdRva8XlkPFKBze+YxSf3a8jH31IBB+erltzvBFCcUWCWp3K+se5YMU0ldVL9w=="
+    "sha256":  "8D27294FB477E09DD860BB82C335F19B3048B535A844118666366706B9D35BBB",
+    "sig":  "CvzCHaiCTq88rryDSkW2g1ENP5ik7R//MsPwGkxca3sY7ONGsPp2WOEC6O+R8ZI9LzbXita9+OcLAFNpfGwD/IXLNT2xWQOIQwc+Vah+LHmzYMF9vnaZ9jzpbKTu2hlS7uXfxBtJtOX1ZOr5u91szXYDwAEKKVZpmQ0VZhWFMKNdqQwrAREPbw/abJkax47FFIrniQZzOndgTt8A4mG6CmAp65ojxq1HxJUfU4+M5kh9zwlZARaa1lAEisH46T1qpBpVoaipQOJA++w/w4M4mxArm32fNmXDP7Dj3+X7ptbD0HpJzYsi0gGy3PtQXLRXOrH1v6ExIC8h+8wNssu9Ng=="
 }
